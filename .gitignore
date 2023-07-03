@@ -1,0 +1,21 @@
+# Папки
+.vs/
+**/bin/
+**/obj/
+**/node_modules/
+.idea/
+.vscode/
+packages/
+
+# Файлы
+appsettings*.json
+*.log
+*.txt
+*.pdb
+*.cache
+*.tmp
+*.temp
+*.bak
+*.swp
+*.suo
+*.user
